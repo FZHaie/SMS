@@ -1,6 +1,3 @@
-![logo](img/smsboom-logo.png)
-
-![test](img/test2.gif)
 
 ## Feature
 
